@@ -39,7 +39,3 @@ app.listen(PORT, () => {
       .bgCyan.white
   );
 });
-
-//pass Xra5rSXh3yt7RbEG
-//username
-//   // "dev": "concurrently \"npm run server\" \"npm run client\""
